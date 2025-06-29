@@ -80,14 +80,23 @@ telnet localhost 23
 
 ---
 
-## 📷 Screenshots
+📷 Screenshots
 
-> All screenshots are located in the `/screenshots/` folder.
+Below are the screenshots demonstrating each step.
 
-* `current_firewall_rules.png` - Firewall rules list
-* `rule_created.png` - Rule creation (block port 23)
-* `telnet_test.png` - Telnet test (before and after)
-* `rule_deletion.png` - Deletion of rule
+🔹 Current Firewall Rules
+
+
+
+🔹 Rule Created to Block Port 23
+
+
+
+🔹 Telnet Test (Before and After Blocking)
+
+
+
+🔹 Rule Deletion Confirmation
 
 ---
 
