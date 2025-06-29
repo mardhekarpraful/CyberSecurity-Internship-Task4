@@ -85,18 +85,19 @@ telnet localhost 23
 Below are the screenshots demonstrating each step.
 
 🔹 Current Firewall Rules
-
+![Current Firewall Rules](current_firewall_rules.png)
 
 
 🔹 Rule Created to Block Port 23
-
+![Rule Created to Block Port 23](rule_created.png)
 
 
 🔹 Telnet Test (Before and After Blocking)
-
+![Telnet Test](rule_deletion.png)
 
 
 🔹 Rule Deletion Confirmation
+![Rule Deletion Confirmation](telnet_test.png)
 
 ---
 
